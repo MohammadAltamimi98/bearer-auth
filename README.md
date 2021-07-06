@@ -6,11 +6,11 @@
 
 ### Links and Resources
 
-✨ [Deployed Heroku Site](https://lydia-bearer-auth.herokuapp.com/)
 
-✨ [GitHub Actions](https://github.com/LydiaMT/bearer-auth/actions)
 
-✨ [Pull Request](https://github.com/LydiaMT/bearer-auth/pull/1)
+✨ [GitHub Actions](https://github.com/MohammadAltamimi98/bearer-auth/actions)
+
+✨ [Pull Request](https://github.com/MohammadAltamimi98/bearer-auth/pull/2)
 
 ### Setup
 
@@ -36,9 +36,6 @@ Use [Code 401 JavaScript Assignment Runner](https://javascript-401.netlify.app/b
 
 ![WRRC](wrrcLab07.jpg)
 
-### Contributions 
-
-Pair progammed with [Jason Taisey](https://github.com/JTaisey389)
 
 ### Sources
 
