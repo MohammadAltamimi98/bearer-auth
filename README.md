@@ -36,9 +36,6 @@ Use [Code 401 JavaScript Assignment Runner](https://javascript-401.netlify.app/b
 
 ![WRRC](wrrcLab07.jpg)
 
-### Contributions 
-
-Pair progammed with [Jason Taisey](https://github.com/JTaisey389)
 
 ### Sources
 
