@@ -6,11 +6,11 @@
 
 ### Links and Resources
 
-✨ [Deployed Heroku Site](https://lydia-bearer-auth.herokuapp.com/)
 
-✨ [GitHub Actions](https://github.com/LydiaMT/bearer-auth/actions)
 
-✨ [Pull Request](https://github.com/LydiaMT/bearer-auth/pull/1)
+✨ [GitHub Actions](https://github.com/MohammadAltamimi98/bearer-auth/actions)
+
+✨ [Pull Request](https://github.com/MohammadAltamimi98/bearer-auth/pull/2)
 
 ### Setup
 
