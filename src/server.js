@@ -16,6 +16,9 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 // Routes
 app.use(authRoutes);
+app.get('/', (req, res) => {
+  res.send('server is up and running!')
+})
 // Catchalls
 app.use(notFound);
 app.use(errorHandler);
